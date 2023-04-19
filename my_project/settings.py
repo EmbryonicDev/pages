@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-^82$utyd+e!d$se=0w_o03iet&6__()#*he08&dlvb(+v_f60m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["EmbryonicDev.github.io"]
 
 
 # Application definition
